@@ -1,5 +1,20 @@
-Hi,<br> This is @yashwanth-alapati
-- 👀 What am I doing?- I’m exploring the world of Data Science and GenAI...While pursuing a master's degree in Computer Science at NYU.
-- Right now, I'm focused on Multi-Modal Machine Learning.
-- I’m looking to collaborate on ML/AI projects.
+# About Me
 
+I'm Yashwanth Alapati, a Master's student at New York University, focused on Software Engineering and AI.  
+
+## Interests
+
+- Artificial Intelligence and Machine Learning  
+- Open-source software  
+- Sci-fi, anything with stimulating physics concepts  
+
+## Projects
+
+Here are some open-source projects I admire or have contributed to:  
+
+- **Data Tools**: [Project Name](#)  
+- **Model Frameworks**: [Project Name](#)  
+- **Large Language Models**: [Project Name](#)  
+- **Database Systems**: [Project Name](#)  
+
+Feel free to connect or reach out if you'd like to collaborate or discuss ideas.  
