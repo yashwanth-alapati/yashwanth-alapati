@@ -6,6 +6,6 @@ I'm Yashwanth Alapati, a Master's student at New York University, focused on Sof
 
 - Artificial Intelligence and Machine Learning  
 - Open-source software  
-- Sci-fi, anything with stimulating physics concepts  
+- Sci-fi, must include stimulating physics concepts.  
 
 Feel free to connect or reach out if you'd like to collaborate or discuss ideas.  
