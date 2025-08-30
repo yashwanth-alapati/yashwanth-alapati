@@ -1,7 +1,3 @@
-# About Me
-
-SWE @Tavily
-
 ## Interests
 
 - Artificial Intelligence and Machine Learning  
