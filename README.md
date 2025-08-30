@@ -1,6 +1,6 @@
 # About Me
 
-I'm Yashwanth Alapati, a Master's student at New York University, focused on Software Engineering and AI.  
+SWE @Tavily
 
 ## Interests
 
